@@ -27,7 +27,7 @@ ADC1, UART2, TIMER1을 사용하여 설계하였습니다.
 
 ![image](https://github.com/user-attachments/assets/a5c06a51-8b57-4aa9-aa98-a991ccb4bc01)
 
-코드는 main.c를 확인하세요. 어렵지 않습니다.
+코드는 main.c를 확인하세요. 어렵지 않습니다. Study.zip은 프로젝트 압축 파일입니다.
 100Khz 1024 샘플을 ADC 합니다.
 Ver2에서는 NanoEdge AI Studio에서 만든 ML 모델을 IDE에서 로드하고 모델을 동작시키는 Run코드를 만들어서 DC ARC FAULT 검증을 해보는 시간을 가지겠습니다.  
 
