@@ -6,5 +6,12 @@ NanoEdge AI Studio 프로그램에서 DataLogger를 지원하는 보드는 한�
 # F411re Logger
 ADC1, UART2, TIMER1을 사용하여 설계하였습니다.
 
+#ADC
+
 ![image](https://github.com/user-attachments/assets/7c1e2982-5714-48de-a59c-dc7723e3af4a)
 
+#TIMER
+
+![image](https://github.com/user-attachments/assets/3b9cc7cd-5d90-4308-834d-3374baea16a5)
+
+#UART
