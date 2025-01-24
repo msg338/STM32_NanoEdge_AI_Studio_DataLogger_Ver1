@@ -17,3 +17,8 @@ ADC1, UART2, TIMER1을 사용하여 설계하였습니다.
 #UART
 
 ![image](https://github.com/user-attachments/assets/b6c6d5ee-5e2a-4f8e-bbf6-0f77de677b9b)
+
+#CLK
+
+![image](https://github.com/user-attachments/assets/3566493f-c16b-4a64-9708-082eedd0641a)
+
