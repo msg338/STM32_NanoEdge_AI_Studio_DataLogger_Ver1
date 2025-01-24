@@ -15,3 +15,5 @@ ADC1, UART2, TIMER1을 사용하여 설계하였습니다.
 ![image](https://github.com/user-attachments/assets/3b9cc7cd-5d90-4308-834d-3374baea16a5)
 
 #UART
+
+![image](https://github.com/user-attachments/assets/b6c6d5ee-5e2a-4f8e-bbf6-0f77de677b9b)
